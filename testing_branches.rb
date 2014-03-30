@@ -8,6 +8,6 @@ describe git_branching do
 	end
 end
 
-branch_from_first_branch:
+branch_from_branch_from_first_branch:
 
-* This paragraph was committed to the branch called "branch_from_first_branch". If all goes to plan, this should be a branch from "first_branch" and not a branch from "master".
+* The last branch that should branch off the "branch_from_first_branch" branch. I know, I should have named these better.
