@@ -8,6 +8,6 @@ describe git_branching do
 	end
 end
 
-first_branch:
+branch_from_first_branch:
 
-These words were committed to the branch called "first_branch" and should be reflected in the commit logs as part of that branch.
+* This paragraph was committed to the branch called "branch_from_first_branch". If all goes to plan, this should be a branch from "first_branch" and not a branch from "master".
